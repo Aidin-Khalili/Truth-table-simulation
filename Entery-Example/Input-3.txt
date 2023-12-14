@@ -1,0 +1,18 @@
+Operators:
++ or
+* and
+~ not
+@ xor
+/ NOR
+$ XNOR
+# NAND
+Primary inputs:
+A1 A2 A3 A4 A5 A6 A7 A8 A9
+Functions:
+O1=A8+A9
+O2=A8* A9
+O3=~ A9
+O4=A8@A9
+O5=A8/A9
+O6=A8$A9
+O7=A8#A9
